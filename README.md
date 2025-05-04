@@ -7,3 +7,11 @@
 ## Создаем тест-кейсы на основании проверок из чек-листа для регистрации, логина и каталога
 
 [Ссылка на документ](https://github.com/LeviIos/Docs/blob/main/Test-case%20Doroshev%20Andrey.pdf)
+
+## Результаты тестового прогона из QASE
+
+[Cсылка на документ](https://github.com/LeviIos/Docs/blob/main/G10-Test-run.Doroshev.pdf)
+
+## Отчет о дефекте в таблице в формате xlsx
+
+[Ссылка на документ](https://github.com/LeviIos/Docs/blob/main/Issues.Doroshev.numbers)
