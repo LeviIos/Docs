@@ -1,17 +1,28 @@
-# Тестовая документация 
+#  Тестовая документация  
 
-## Создаем чек-лист для тестирования регистрации, логина и каталога demoshop
+---
 
-[Cсылка на документ](https://docs.google.com/spreadsheets/d/1DGfI10Tbtq8vuwCPpAk_KEt3HLlJ0T90pzJU-W3MRww/edit?gid=0#gid=0) 
+## 1️⃣ Чек-лист  
+**Тестирование регистрации, логина и каталога _demoshop_**  
 
-## Создаем тест-кейсы на основании проверок из чек-листа для регистрации, логина и каталога
+[Чек-лист в Google Sheets](https://docs.google.com/spreadsheets/d/1DGfI10Tbtq8vuwCPpAk_KEt3HLlJ0T90pzJU-W3MRww/edit?gid=0#gid=0)  
 
-[Ссылка на документ](https://github.com/LeviIos/Docs/blob/main/Test-case%20Doroshev%20Andrey.pdf)
+---
 
-## Результаты тестового прогона из QASE
+## 2️⃣ Тест-кейсы  
+**На основании проверок из чек-листа (регистрация, логин, каталог)**  
 
-[Cсылка на документ](https://github.com/LeviIos/Docs/blob/main/G10-Test-run.Doroshev.pdf)
+[PDF с тест-кейсами](https://github.com/LeviIos/Docs/blob/main/Test-case%20Doroshev%20Andrey.pdf)  
 
-## Отчет о дефекте в таблице в формате xlsx
+---
 
-[Ссылка на документ](https://github.com/LeviIos/Docs/blob/main/Issues.Doroshev.numbers)
+## 3️⃣ Результаты тестового прогона (QASE)  
+
+[Отчёт о прогоне](https://github.com/LeviIos/Docs/blob/main/G10-Test-run.Doroshev.pdf)  
+
+---
+
+## 4️⃣ Отчёт о дефектах  
+
+[Таблица с баг-репортами (xlsx)](https://github.com/LeviIos/Docs/blob/main/Issues.Doroshev.numbers)  
+
